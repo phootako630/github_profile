@@ -1,6 +1,6 @@
 
 <p align="center"><img width="40%" height="auto" src="logo.png"/></p>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, I'm Prithvi</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, I'm Ivan</h1>
 <h3 align="center">I am a Web Developer.</h3>
 
 
