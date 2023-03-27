@@ -67,6 +67,10 @@ tokyonight
 
 ![snake gif](https://github.com/phootako630/phootako630/blob/output/github-contribution-grid-snake.gif)
 
+<a href="https://github.com/phootako630/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=phootako630">
+</a>
+
 ## Connect with me:
 <p align="left">
 <a href = "https://www.linkedin.com/in/yifan-ivan-zhang/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
