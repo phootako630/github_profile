@@ -65,11 +65,11 @@ tokyonight
 
 ## Watch my contributions get eaten by a snake 🐍
 
-![snake gif](https://raw.githubusercontent.com/phootako630/snk/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/mobbo9306/snk/output/github-contribution-grid-snake.svg)
 
 ## Connect with me:
 <p align="left">
-<a href = "https://www.linkedin.com/in/yifan-ivan-zhang/"><img src="https://icons8.com/icon/EPGwLJfY346B/linkedin-2"/></a>
+<a href = "https://www.linkedin.com/in/yifan-ivan-zhang/"><img src="https://icons8.com/icon/vWcULbkKy3DN/linkedin-2"/></a>
 
 </p>
 
