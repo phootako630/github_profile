@@ -21,7 +21,7 @@
     <a style="padding-right: 15px;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a style="padding-right: 15px;" href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a style="padding-right: 15px;" href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a style="padding-right: 15px;" href="https://vuejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/vue.png"/> </a> 
+    <a style="padding-right: 15px;" href="https://vuejs.org" target="_blank"> <img src="https://icons8.com/icon/rY6agKizO9eb/vue-js"/> </a> 
     <a style="padding-right: 15px;" href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
    <a style="padding-right: 15px; padding-left: 15px;" href="https://nodejs.org" target="_blank"> <img  style="padding-right: 15px; max-width:38px; height: 34px;" src="https://nodejs.org/static/images/logo.svg"/> </a> &nbsp;
    <a style="padding-right: 15px; " href="https://nextjs.org/" target="_blank"> <img style="max-width:52px; height: 52px;" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg"/> </a>&nbsp;
