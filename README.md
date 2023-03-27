@@ -69,7 +69,9 @@ tokyonight
 
 ## Connect with me:
 <p align="left">
-<a href = "https://www.linkedin.com/in/yifan-ivan-zhang/"><img src="https://icons8.com/icon/vWcULbkKy3DN/linkedin-2"/></a>
+<a href = "https://www.linkedin.com/in/yifan-ivan-zhang/">![image](https://user-images.githubusercontent.com/114458211/227832210-fb97938f-d1bc-4cb7-8bf5-4d6675ba950e.png)
+</a>
+  
 
 </p>
 
