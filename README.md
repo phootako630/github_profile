@@ -63,9 +63,9 @@ tokyonight
 
 
 
-## Watch my contributions get eaten by a snake 🐍
+## Snake and Contribution 🐍
 
-![snake gif](https://raw.githubusercontent.com/phootako630/snk/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/phootako630/phootako630/blob/output/github-contribution-grid-snake.gif)
 
 ## Connect with me:
 <p align="left">
