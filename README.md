@@ -7,10 +7,10 @@
 
 - 🔭 I’m Ivan
 
-- 🌱 My fields of intetest are 
+- 🌱 My fields of interest are 
   - **Fullstack Development**
 
-- 📫 Contact me at **ivanzhang220820@gmail.com**
+- 📫 Contact me at **ivan.z.workday@gmail.com**
 
 
 ## 🚀 Languages and Tools:
